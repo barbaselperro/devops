@@ -14,6 +14,6 @@ func main(){
 	fmt.Scan(&personas)
 	fmt.Print("ingrese un porcentaje de propina: %")
 	fmt.Scan(&propina)
-	//falta continuar
+	//falta continuar  
 
 }
