@@ -17,3 +17,6 @@ func main(){
 	//falta continuar  
 
 }
+
+
+#hay que continuar con las clases de kubernetes como tambien de GO
