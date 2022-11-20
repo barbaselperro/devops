@@ -19,4 +19,4 @@ func main(){
 }
 
 
-#hay que continuar con las clases de kubernetes como tambien de GO
+#hay que continuar con las clases de kubernetes como tambien de GOlang
